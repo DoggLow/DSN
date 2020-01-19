@@ -1,0 +1,1 @@
+/gradlew install -Pgradle_installPath=/usr/local/gradle-source-build
